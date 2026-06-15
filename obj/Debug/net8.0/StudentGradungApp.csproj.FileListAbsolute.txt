@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/StudentGradungApp/bin/Debug/net8.0/StudentGradungApp
+/home/kolyamba/Documents/coding/StudentGradungApp/bin/Debug/net8.0/StudentGradungApp.deps.json
+/home/kolyamba/Documents/coding/StudentGradungApp/bin/Debug/net8.0/StudentGradungApp.runtimeconfig.json
+/home/kolyamba/Documents/coding/StudentGradungApp/bin/Debug/net8.0/StudentGradungApp.dll
+/home/kolyamba/Documents/coding/StudentGradungApp/bin/Debug/net8.0/StudentGradungApp.pdb
+/home/kolyamba/Documents/coding/StudentGradungApp/obj/Debug/net8.0/StudentGradungApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/StudentGradungApp/obj/Debug/net8.0/StudentGradungApp.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/StudentGradungApp/obj/Debug/net8.0/StudentGradungApp.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/StudentGradungApp/obj/Debug/net8.0/StudentGradungApp.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/StudentGradungApp/obj/Debug/net8.0/StudentGradungApp.sourcelink.json
+/home/kolyamba/Documents/coding/StudentGradungApp/obj/Debug/net8.0/StudentGradungApp.dll
+/home/kolyamba/Documents/coding/StudentGradungApp/obj/Debug/net8.0/refint/StudentGradungApp.dll
+/home/kolyamba/Documents/coding/StudentGradungApp/obj/Debug/net8.0/StudentGradungApp.pdb
+/home/kolyamba/Documents/coding/StudentGradungApp/obj/Debug/net8.0/StudentGradungApp.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/StudentGradungApp/obj/Debug/net8.0/ref/StudentGradungApp.dll
