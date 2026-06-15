@@ -49,9 +49,11 @@ decimal zahirahScore = (decimal)zahirahSum / currentAssignments;
 decimal jeongScore = (decimal)jeongSum / currentAssignments;
 
 // show output (for insuring the code is working as intended)
-Console.WriteLine("Sophia: " + sophiaScore);
-Console.WriteLine("Nicolas:" + nicolasScore);
-Console.WriteLine("Zahirah: " + zahirahScore);
-Console.WriteLine("Jeong:" + jeongScore);
+Console.WriteLine("Student\tGrade\n");
+// add some formatting to the output \t to represent data better
+Console.WriteLine("Sophia:\t\t" + sophiaScore + "\tA");
+Console.WriteLine("Nicolas:\t" + nicolasScore + "\tB");
+Console.WriteLine("Zahirah:\t" + zahirahScore + "\tB");
+Console.WriteLine("Jeong:\t\t" + jeongScore + "\tA");
     
 
