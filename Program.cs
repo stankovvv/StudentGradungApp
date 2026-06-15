@@ -40,11 +40,16 @@ int nicolasSum = nicolas1 + nicolas2 + nicolas3 + nicolas4 + nicolas5;
 int zahirahSum = zahirah1 + zahirah2 + zahirah3 + zahirah4 + zahirah5;
 int jeongSum = jeong1 + jeong2 + jeong3 + jeong4 + jeong5;
 
-// show output (for insuring the code is working as intended)
+// calculate average score for each student
+decimal sophiaScore = sophiaSum / currentAssignments;
+decimal nicolasScore = nicolasSum / currentAssignments;
+decimal zahirahScore = zahirahSum / currentAssignments;
+decimal jeongScore = jeongSum / currentAssignments;
 
-Console.WriteLine("Sophia: " + sophiaSum);
-Console.WriteLine("Nicolas:" + nicolasSum);
-Console.WriteLine("ZahirahSum: " + zahirahSum);
-Console.WriteLine("Jeong:" + jeongSum);
+// show output (for insuring the code is working as intended)
+Console.WriteLine("Sophia: " + sophiaScore);
+Console.WriteLine("Nicolas:" + nicolasScore);
+Console.WriteLine("Zahirah: " + zahirahScore);
+Console.WriteLine("Jeong:" + jeongScore);
     
 
